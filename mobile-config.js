@@ -3,7 +3,7 @@ App.info({
   description: 'Share your moments, live others',
   author: 'Momento Team',
   email: 'max.mirkia@gmail.com',
-  website: 'http://momento.meteor.com',
+  website: 'http://momentoo.heroku.com',
   version: '1.0.1'
 });
 
