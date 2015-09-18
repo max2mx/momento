@@ -1,9 +1,9 @@
 App.info({
-  name: 'Local Market',
+  name: 'Momento',
   description: 'A recipe sharing app made in Meteor.',
-  author: 'Percolate Studio Team',
+  author: 'Momento Team',
   email: 'us@percolatestudio.com',
-  website: 'http://percolatestudio.com',
+  website: 'http://momento.meteor.com',
   version: '0.0.1'
 });
 
