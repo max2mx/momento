@@ -1,10 +1,10 @@
 App.info({
   name: 'Momento',
-  description: 'A recipe sharing app made in Meteor.',
+  description: 'Share your moments, live others',
   author: 'Momento Team',
-  email: 'us@percolatestudio.com',
+  email: 'max.mirkia@gmail.com',
   website: 'http://momento.meteor.com',
-  version: '0.0.1'
+  version: '1.0.1'
 });
 
 App.icons({
